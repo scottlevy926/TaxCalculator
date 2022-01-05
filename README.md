@@ -21,3 +21,4 @@ The program displays the total tax due to the user.
 Input: Amount of taxable income
 
 Output: Amount of tax due
+
